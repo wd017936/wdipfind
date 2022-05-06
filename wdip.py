@@ -1,4 +1,5 @@
 import geocoder
+import sys
 black="\033[0;30m"        # Black
 red="\033[0;31m"          # Red
 green="\033[0;32m"        # Green
